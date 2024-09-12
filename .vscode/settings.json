@@ -1,0 +1,19 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "cSpell.words": [
+        "aventstack",
+        "chromedriver",
+        "eltohamy",
+        "extentreports",
+        "firstname",
+        "Interactable",
+        "lastname",
+        "listbox",
+        "mahmoud",
+        "middlename",
+        "msedgedriver",
+        "orangehrm",
+        "userdropdown"
+    ]
+}

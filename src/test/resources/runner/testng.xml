@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+
+    <listeners>
+        <listener class-name="com.orangehrm.PO.listeners.CustomListener"/>
+    </listeners>
+
+    <test name="Browser Execution">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="com.orangehrm.runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
